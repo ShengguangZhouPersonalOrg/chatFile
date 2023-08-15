@@ -1,0 +1,9 @@
+langchain
+streamlit
+FAISS
+FAISS-cpu
+PyPDFLoader
+Docx2txtLoader
+TextLoader
+CSVLoader
+unstructured
